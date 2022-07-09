@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/jaijordan?logo=github&style=for-the
 - I'm probably busy learning how to code 👨‍💻
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools  :hammer_and_wrench:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/jaijordan?logo=github&style=for-the
 ---
 
 
-### 🔥 My Stats 
+### My Stats 🔥
 
 <a href="http://www.github.com/jaijordan"><img src="https://github-readme-stats.vercel.app/api?username=jaijordan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaijordan's GitHub stats" /></a>
 <a href="http://www.github.com/jaijordan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaijordan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
