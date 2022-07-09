@@ -8,20 +8,35 @@
 
 ---
 
+<a href="https://www.github.com/jaijordan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jaijordan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<!--
 ![](https://visitor-badge.laobi.icu/badge?page_id=jaijordan)
 [![Github](https://img.shields.io/github/followers/jaijordan?label=Follow&style=social)](https://github.com/jaijordan)
+-->
 
 
 #### Welcome to my place of refuge 😇
 
 
 - I'm currently working as intern 💪
-- I'm currently learning **everything** 📚
+- Actively trying to learn **everything** 📚
 - I'm probably busy learning how to code 👨‍💻
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="Vs Code" width="40" height="40"/>&nbsp;
+</p>
+
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,13 +45,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="Vs Code" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 ---
 
 
 ### 🔥 My Stats 
 
+<a href="http://www.github.com/jaijordan"><img src="https://github-readme-stats.vercel.app/api?username=jaijordan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaijordan's GitHub stats" /></a>
+<a href="http://www.github.com/jaijordan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaijordan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaijordan&show_icons=true&theme=dark&&hide_border=false)     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaijordan&&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->
 
 <!--
 **jaijordan/jaijordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
