@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/jaijordan?logo=github&style=for-the
 -->
 
 
-#### Welcome to my place of refuge 😇
+### Welcome to my place of refuge 😇
 
 
 - I'm currently working as intern 💪
