@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=4000&pause=1000&color=000000&width=435&lines=Hi+there...+++I'm+Jordan.;Thanks+for+stopping+by.;Please+feel+free+to+look+around.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=Hi+there...+++I'm+Jordan.;Thanks+for+stopping+by.;Please+feel+free+to+look+around.)](https://git.io/typing-svg)
 
 **I'm a Computer Science student focused on strong fundamentals and clean code.**
 
