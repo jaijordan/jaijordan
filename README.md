@@ -2,7 +2,7 @@
 
 **I'm a Computer Science student focused on strong fundamentals and clean code.**
 
-Studying CS @ The University at Buffalo;
+Studying CS @ The University at Buffalo
 
 - 🧠 I like the hard parts: complexity, edge cases, and what's going on under the hood
 - ⚙️ `.py`, `.java`, and `.cpp` when I'm home; `.js` when I'm on the web
